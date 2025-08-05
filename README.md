@@ -148,10 +148,10 @@ Video analysis complete!
 ### Video Preview
 <p align="center">
   <a href="Cheetah%20cub%20learns%20how%20to%20hunt%20and%20kill%20a%20scrub%20hare.mp4">
-    <img src="assets/video_thumbnail.jpg" alt="Cheetah cub learning to hunt - Video thumbnail" width="640" height="360">
+    <img src="https://img.icons8.com/color/96/000000/video-play.png" alt="Play Video: Cheetah cub learning to hunt" width="96" height="96">
   </a>
   <br>
-  <em>Click the image to view or download the video</em>
+  <em>🎬 Click to view the video: Cheetah cub learns how to hunt and kill a scrub hare</em>
 </p>
 
 ### Actual Interactive Chat System Output
