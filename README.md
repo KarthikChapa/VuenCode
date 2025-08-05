@@ -144,13 +144,14 @@ Video analysis complete!
 - **Setting**: African savanna/grassland
 - **Subjects**: Adult cheetah, cheetah cub, various prey animals
 
+
 ### Video Preview
 <p align="center">
-  <video width="640" height="360" controls>
-    <source src="assets/cheetah_cub_hunting.mp4" type="video/mp4">
-    <img src="assets/video_thumbnail.jpg" alt="(test inpput video)Cheetah cub learning to hunt - Video thumbnail" width="640" height="360">
-    Your browser does not support the video tag.
-  </video>
+  <a href="Cheetah%20cub%20learns%20how%20to%20hunt%20and%20kill%20a%20scrub%20hare.mp4">
+    <img src="assets/video_thumbnail.jpg" alt="Cheetah cub learning to hunt - Video thumbnail" width="640" height="360">
+  </a>
+  <br>
+  <em>Click the image to view or download the video</em>
 </p>
 
 ### Actual Interactive Chat System Output
