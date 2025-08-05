@@ -146,15 +146,16 @@ Video analysis complete!
 
 
 ### Video Preview
+
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=gkFQeK6y-rI" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/youtube-play.png" alt="Play Video: Cheetah cub learning to hunt" width="96" height="96">
+  <a href="https://www.youtube.com/watch?v=gkFQeK6y-rI">
+    <img src="https://img.youtube.com/vi/gkFQeK6y-rI/maxresdefault.jpg" alt="Cheetah cub learning to hunt" width="640" height="360" style="border: 2px solid #ccc; border-radius: 8px;">
+    <br>
+    <img src="https://img.shields.io/badge/▶_Play_Video-red?style=for-the-badge&logo=youtube" alt="Play Video">
   </a>
-  <br>
-  <em>🎬 Click to watch on YouTube: Cheetah cub learns how to hunt and kill a scrub hare</em>
 </p>
 
-> **Note**: The original video file is included in this repository, but GitHub cannot display it directly due to its size. The YouTube link above shows a similar wildlife video for demonstration purposes.
+> **Note**: The original video file is included in this repository, but GitHub cannot display it directly due to its size. The YouTube preview above shows that video.
 
 ### Actual Interactive Chat System Output
 
