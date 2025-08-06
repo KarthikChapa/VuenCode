@@ -334,7 +334,7 @@ with open('video_analysis_results.json', 'w') as f:
 
 ## Team & Development
 
-**Project Team**: Tanmay & Karthik  
+**Project Team**: Tanmay & Karthik & Tarun & Nithin 
 **Focus Areas**: Computer Vision, Natural Language Processing, Video Analysis
 
 **Technical Stack**: Python, PyTorch, Google AI APIs, OpenCV
